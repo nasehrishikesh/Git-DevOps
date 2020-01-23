@@ -1,2 +1,2 @@
 print("hello my first git test")
-print("from git")
+print("hell i delete the second line")
